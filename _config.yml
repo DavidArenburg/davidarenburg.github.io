@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
 url: "https://username.github.io"
-baseurl: "davidarenburg"
+baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -96,7 +96,7 @@ share-links-active:
   facebook: false
   google: false
   linkedin: true
-  stackoverflow: true
+  #stackoverflow: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
