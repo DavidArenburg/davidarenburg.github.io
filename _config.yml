@@ -80,7 +80,7 @@ social-network-links:
 #  google-plus: +DeanAttali
   linkedin: david.arenburg
 #  xing: yourname
-  stackoverflow: "3943160/daattali"
+  stackoverflow: "3001626/david-arenburg"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
@@ -96,7 +96,7 @@ share-links-active:
   facebook: false
   google: false
   linkedin: true
-  #stackoverflow: true
+  stackoverflow: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
