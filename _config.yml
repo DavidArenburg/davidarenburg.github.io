@@ -75,7 +75,7 @@ social-network-links:
   email: "david.arenburg@gmail.com"
   #facebook: daattali
   github: davidarenburg
-  twitter: false
+  #twitter: 
 #  reddit: yourname
 #  google-plus: +DeanAttali
   linkedin: david-arenburg-9b44321a
@@ -92,7 +92,7 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
   google: false
   linkedin: true
